@@ -1,4 +1,4 @@
-#VornoiViewer
+# VornoiViewer
 Uses Java Swing to create a JFrame in which a user can click and create points. From those points, the program creates a Voronoi diagram  based on the inputted distance calculator.
 
 ## Usage
